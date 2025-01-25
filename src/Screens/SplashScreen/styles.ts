@@ -18,13 +18,13 @@ export const styles = StyleSheet.create({
     gap: 16,
   },
   title: {
-    fontFamily: 'Poppins',
+    fontFamily: 'Poppins-Regular',
     fontSize: 18,
     fontWeight: 'bold',
     color: '#000',
   },
   subtitle: {
-    fontFamily: 'Poppins',
+    // fontFamily: 'Poppins',
     fontSize: 13,
     color: '#000',
     textAlign: 'center',

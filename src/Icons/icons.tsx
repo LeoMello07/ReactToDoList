@@ -10,20 +10,3 @@ export function CirclesSplash() {
     </Svg>
   );
 }
-
-export function SvgTest() {
-  return (
-    <View>
-      <Svg height="100" width="100">
-        <Circle
-          cx="50"
-          cy="50"
-          r="40"
-          stroke="blue"
-          strokeWidth="2.5"
-          fill="green"
-        />
-      </Svg>
-    </View>
-  );
-}
