@@ -1,3 +1,5 @@
+link figma: https://www.figma.com/design/IJLqwqyciqaXNPZD8tVMgy/Mobile_app_design-%7C-Todo-app-(Community)?node-id=0-1&p=f&t=0VWw12kxyQtjsrz4-0
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
