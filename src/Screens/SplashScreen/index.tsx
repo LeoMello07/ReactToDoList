@@ -6,10 +6,10 @@ import {CirclesSplash} from '../../Icons/icons';
 export const SplashScreen = () => {
   return (
     <View style={styles.container}>
-      <View style={{top: 0, left: 0, position: 'absolute'}}>
+      <View style={{top: 0, left: 0, position: 'absolute', width: '100%'}}>
         <CirclesSplash />
       </View>
-      <View style={{marginTop: 78}}>
+      <View style={{marginTop: 180}}>
         <Image
           source={require('../../Images/SplashScreen.png')}
           style={styles.image}
@@ -25,7 +25,7 @@ export const SplashScreen = () => {
         </Text>
       </View>
       <Pressable style={styles.button}>
-        <Text style={styles.buttonText}> Get Started</Text>
+        <Text style={styles.buttonText}>Get Started</Text>
       </Pressable>
     </View>
   );
