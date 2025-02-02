@@ -1,9 +1,10 @@
 import React from 'react';
 import {SplashScreen} from './src/Screens/SplashScreen';
 import {Registration} from './src/Screens/Registration';
+import { Login } from './src/Screens/Login';
 
 function App(): React.JSX.Element {
-  return <Registration />;
+  return <Login />;
 }
 
 export default App;
